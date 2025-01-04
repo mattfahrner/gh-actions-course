@@ -9,7 +9,7 @@ on:
 
 
 jobs:
-  echo
+  echo:
     runs-on: ubuntu-latest
     steps:
       - name: Show trigger
